@@ -11,3 +11,10 @@ as "e," base of the natural logarithm, has been nailed as most efficient storage
 
 memory, registers, and i/o ports, each consisting of arrangements made up from such bit/trit septet mouthfuls
 
+each register may be set to any of 36972 * 6 possible settings, at one bit * one trit total count per register, of mouthfuls
+
+.
+
+.
+
+.
